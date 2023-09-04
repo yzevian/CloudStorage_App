@@ -23,8 +23,7 @@ the IntelliJ IDE.
 2. The front-end with Thymeleaf
 3. Application tests with Selenium
 
-The instructors provide the student developer with front-end 
-html files, a hashing service class, an encryption service class and
+The project also includes front-end html files, a hashing service class, an encryption service class and
 a Spring Boot framework using Maven.
 
 ## Setup 
